@@ -70,4 +70,8 @@ def pengulangan():
 pengulangan()
 
 
+2.hasil screenshoot
+![img](https://github.com/nurma11/lapby1/blob/master/hasil1.jpg)
+
+
 
